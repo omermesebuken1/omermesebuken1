@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @omermesebuken1
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me omermesebuken1@gmail.com
+- 👀 I’m interested in Game Developing
+- 🌱 I’m currently learning C# and Unity
+
 
 <!---
 omermesebuken1/omermesebuken1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
