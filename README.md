@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @omermesebuken1
-- 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning C# and Unity
+- Hi, I’m @omermesebuken1
+- I’m a Game Developer.
+- Check out my website: https://omermesebuken.com
+
 
 
 <!---
