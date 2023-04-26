@@ -1,4 +1,4 @@
-- Hi, I’m @omermesebuken1
+- Hi, I’m Omer Mesebuken
 - I’m a Game Developer.
 - Check out my website: https://omermesebuken.com
 
