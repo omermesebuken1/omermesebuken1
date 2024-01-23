@@ -1,5 +1,6 @@
 - Hi, I’m Omer Mesebuken
-- I’m a Game Developer.
+- I’m a Test Automation Engineer
+- Also doing some Game Devoloping for fun.
 - Check out my website: https://omermesebuken.com
 
 
